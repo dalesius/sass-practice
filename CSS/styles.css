@@ -41,4 +41,21 @@ h1 {
         #main-nav ul li a:hover {
           color: red; }
 
+.pro-img {
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  box-shadow: 0 0 15px #555555;
+  -moz-box-shadow: 0 0 15px #555555;
+  -webkit-box-shadow: 0 0 15px #555555;
+  -ms-box-shadow: 0 0 15px #555555;
+  border: 1px solid #00aa8d;
+  background-color: #00aa8d;
+  width: 22%;
+  height: 120px;
+  display: inline-block;
+  float: left;
+  margin: 15px; }
+
 /*# sourceMappingURL=styles.css.map */
